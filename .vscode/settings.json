@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "backend/**/*.js.map": true,
+    "backend/**/*.js": true,
+    "frontend/app/**/*.js.map": true,
+    "frontend/app/**/*.js": true,
+    "frontend/app/**/*.css": true
+  }
+}

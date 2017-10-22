@@ -1,0 +1,6 @@
+node_modules
+*.log
+backend/app/**/*.js
+frontend/app/**/*.css
+frontend/app/**/*.js
+frontend/app/**/*.js.map

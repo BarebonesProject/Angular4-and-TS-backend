@@ -5,7 +5,7 @@ export interface Configuration
 }
 class DefaultConfiguration implements Configuration
 {
-    port : 8080
+    port = 8080
 }
 
 export const config : Configuration = require('../config.json');
